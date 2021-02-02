@@ -9,5 +9,5 @@ pair와 git remote 협업하기!
 거제도  <br> 
 도라지 <br>
 지렁이 <br>
-이발소 <br>
-(끝!) <br>
+이리 <br>
+리어카 <br>

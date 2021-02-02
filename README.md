@@ -11,4 +11,3 @@ pair와 git remote 협업하기!
 지렁이 <br>
 이리 <br>
 리어카 <br>
-(스겜스겜)
